@@ -1,0 +1,17 @@
+Rua do Comércio 126
+57-515-970
+B
+245.85 311.20
+desocupada
+A
+176.74 210.40
+ocupada
+A
+235.20 280.00
+ocupada
+A
+224.20 236.00
+ocupada
+A
+193.80 258.40
+ocupada

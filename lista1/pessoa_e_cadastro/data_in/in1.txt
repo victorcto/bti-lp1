@@ -1,0 +1,14 @@
+inserir_pessoa
+204.075.312-54
+Quadra J1, 677, Primavera
+Eliane Sophie Cavalcanti
+inserir_pessoa
+204.075.312-35
+Quadra J1, 677, Primavera
+Eliane Sophie Cavalcanti
+procurar_cpf
+204.075.312-35
+remover_pessoa
+204.075.312-35
+procurar_cpf
+204.075.312-35

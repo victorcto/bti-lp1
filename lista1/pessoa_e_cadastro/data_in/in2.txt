@@ -1,0 +1,18 @@
+procurar_nome
+Eliane Sophie Cavalcanti
+inserir_pessoa
+204.075.312-35
+Quadra J1, 677, Primavera
+Eliane Sophie Cavalcanti
+procurar_nome
+Eliane Sophie Cavalcanti
+remover_pessoa
+234.471.164-39
+procurar_nome
+Eliane Sophie Cavalcanti
+remover_pessoa
+675.877.892-43
+remover_pessoa
+204.075.312-35
+procurar_nome
+Eliane Sophie Cavalcanti

@@ -1,0 +1,1 @@
+/usr/bin/g++  -Wall -g   CMakeFiles/program.dir/src/main.cpp.o CMakeFiles/program.dir/src/Cadastro.cpp.o CMakeFiles/program.dir/src/Pessoa.cpp.o  -o program 

@@ -1,0 +1,11 @@
+Misael Mendonça
+85-803-230
+A
+164.74 228.80
+ocupada
+B
+195.84 230.40
+desocupada
+B
+230.40 256.00
+ocupada

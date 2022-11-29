@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/BingoRand.hpp
+random
+-
+vector
+-
+
+../include/Player.hpp
+iostream
+-
+vector
+-
+
+/home/victor/lip/t01-lista-2-victorcto/bingo/src/main.cpp
+iostream
+-
+BingoRand.hpp
+/home/victor/lip/t01-lista-2-victorcto/bingo/src/BingoRand.hpp
+Player.hpp
+/home/victor/lip/t01-lista-2-victorcto/bingo/src/Player.hpp
+

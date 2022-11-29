@@ -1,0 +1,20 @@
+Rua Chico Reis
+76-821-344
+B
+230.38 264.80
+ocupada
+A
+140.45 184.80
+ocupada
+B
+142.85 198.40
+ocupada
+A
+186.65 242.40
+ocupada
+B
+239.55 315.20
+desocupada
+B
+176.40 235.20
+ocupada

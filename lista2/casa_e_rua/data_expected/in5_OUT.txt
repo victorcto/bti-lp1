@@ -1,0 +1,6 @@
+Casas Desocupadas
+Rua Chico Reis, 76-821-344, Casa no. 5, Área: 239.55 / 315.20, lado B
+Vizinhos
+Frente: <nenhum>
+Esquerda: Rua Chico Reis, 76-821-344, Casa no. 3, Área: 142.85 / 198.40, lado B (ocupada)
+Direita: Rua Chico Reis, 76-821-344, Casa no. 7, Área: 176.40 / 235.20, lado B (ocupada)

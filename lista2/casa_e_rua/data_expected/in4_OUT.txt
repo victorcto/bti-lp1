@@ -1,0 +1,6 @@
+Casas Desocupadas
+Rua Santa Terezinha, 29-114-002, Casa no. 2, Área: 158.78 / 178.40, lado A
+Vizinhos
+Frente: <nenhum>
+Esquerda: Rua Santa Terezinha, 29-114-002, Casa no. 0, Área: 253.42 / 269.60, lado A (ocupada)
+Direita: <nenhum>

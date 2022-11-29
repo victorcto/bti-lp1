@@ -1,0 +1,106 @@
+Rua do Comércio 126
+57-515-970
+B
+245.85 311.20
+desocupada
+A
+176.74 210.40
+ocupada
+A
+235.20 280.00
+ocupada
+A
+224.20 236.00
+ocupada
+A
+193.80 258.40
+ocupada
+;
+Misael Mendonça, 85-803-230, Casa no. 1, Área: 195.84 / 230.40, lado B
+Vizinhos
+Misael Mendonça, 85-803-230, Casa no. 0, Área: 164.74 / 228.80, lado A (ocupada)
+Misael Mendonça, 85-803-230, Casa no. 3, Área: 230.40 / 256.00, lado B (ocupada)
+;
+José Vidal 91
+58-748-970
+A
+214.72 244.00
+ocupada
+A
+167.96 176.80
+ocupada
+A
+219.46 304.80
+desocupada
+B
+135.49 185.60
+ocupada
+B
+260.06 309.60
+desocupada
+A
+146.61 190.40
+ocupada
+A
+187.70 237.60
+ocupada
+A
+207.78 241.60
+ocupada
+A
+209.50 240.80
+ocupada
+B
+192.10 208.80
+ocupada
+;
+teste
+;
+Misael Mendonça
+85-803-230
+A
+164.74 228.80
+ocupada
+B
+195.84 230.40
+desocupada
+B
+230.40 256.00
+ocupada
+;
+teste
+;
+Rua Santa Terezinha
+29-114-002
+A
+253.42 269.60
+ocupada
+A
+158.78 178.40
+desocupada
+;
+teste
+;
+Rua Chico Reis
+76-821-344
+B
+230.38 264.80
+ocupada
+A
+140.45 184.80
+ocupada
+B
+142.85 198.40
+ocupada
+A
+186.65 242.40
+ocupada
+B
+239.55 315.20
+desocupada
+B
+176.40 235.20
+ocupada
+;
+teste
+;

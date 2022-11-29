@@ -1,0 +1,6 @@
+Casas Desocupadas
+Rua do Comércio 126, 57-515-970, Casa no. 1, Área: 245.85 / 311.20, lado B
+Vizinhos
+Frente: Rua do Comércio 126, 57-515-970, Casa no. 0, Área: 176.74 / 210.40, lado A (ocupada)
+Esquerda: <nenhum>
+Direita: <nenhum>

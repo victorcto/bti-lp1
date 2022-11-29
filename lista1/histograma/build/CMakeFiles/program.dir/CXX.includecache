@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/function.hpp
+utility
+-
+vector
+-
+algorithm
+-
+iostream
+-
+
+/home/victor/lip/lp1-lista1-cpp_basico-victorcto/histograma/src/function.cpp
+function.hpp
+/home/victor/lip/lp1-lista1-cpp_basico-victorcto/histograma/src/function.hpp
+
+/home/victor/lip/lp1-lista1-cpp_basico-victorcto/histograma/src/main.cpp
+function.hpp
+/home/victor/lip/lp1-lista1-cpp_basico-victorcto/histograma/src/function.hpp
+iostream
+-
+utility
+-
+

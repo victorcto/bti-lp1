@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/build",
+  "command": "/usr/bin/g++   -I/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/./include  -Wall -g   -std=gnu++14 -o CMakeFiles/program.dir/src/main.cpp.o -c /home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/src/main.cpp",
+  "file": "/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/src/main.cpp"
+},
+{
+  "directory": "/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/build",
+  "command": "/usr/bin/g++   -I/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/./include  -Wall -g   -std=gnu++14 -o CMakeFiles/program.dir/src/Cadastro.cpp.o -c /home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/src/Cadastro.cpp",
+  "file": "/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/src/Cadastro.cpp"
+},
+{
+  "directory": "/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/build",
+  "command": "/usr/bin/g++   -I/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/./include  -Wall -g   -std=gnu++14 -o CMakeFiles/program.dir/src/Pessoa.cpp.o -c /home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/src/Pessoa.cpp",
+  "file": "/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/src/Pessoa.cpp"
+}
+]

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/function.h
+array
+-
+string
+-
+
+/home/victor/lip/lp1-lista1-cpp_basico-victorcto/ponto_em_retangulo/src/main.cpp
+iostream
+-
+algorithm
+-
+function.h
+/home/victor/lip/lp1-lista1-cpp_basico-victorcto/ponto_em_retangulo/src/function.h
+

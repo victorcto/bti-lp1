@@ -1,0 +1,450 @@
+Jogador Elisa Sabrina Larissa Nunes
+Cartela: [27, 63, 96, 36, 97, 75, 53, 32, 74, 55, 84, 50, 30, 9, 48, 86, 20, 80, 90, 1, 93, 31, 52, 40]
+Jogador Natália Daiane Elza das Neves
+Cartela: [88, 2, 90, 33, 84, 61, 69, 53, 86, 59, 98, 52, 31, 7, 87, 65, 78, 15, 73, 60, 94, 77, 97, 93]
+Jogador Gael Jorge Pietro Porto
+Cartela: [12, 92, 16, 4, 43, 17, 13, 69, 65, 26, 53, 93, 14, 38, 68, 3, 2, 96, 42, 9, 41, 25, 44, 78]
+Jogador Carolina Mariane Porto
+Cartela: [31, 72, 99, 22, 7, 68, 44, 66, 37, 27, 74, 88, 54, 70, 11, 13, 63, 82, 81, 76, 3, 15, 49, 9]
+Jogador Giovana Alícia dos Santos
+Cartela: [45, 82, 1, 81, 32, 4, 49, 6, 13, 94, 25, 83, 98, 76, 80, 78, 88, 42, 74, 95, 33, 86, 63, 31]
+Jogador Evelyn Cecília Silva
+Cartela: [67, 39, 56, 81, 98, 75, 99, 49, 88, 37, 96, 24, 3, 34, 93, 15, 20, 16, 33, 7, 6, 78, 54, 43]
+Jogador Brenda Sueli Campos
+Cartela: [46, 37, 18, 10, 91, 70, 96, 3, 80, 50, 16, 21, 33, 84, 22, 1, 39, 92, 7, 55, 48, 6, 32, 8]
+Jogador Brenda Daiane Camila Gonçalves
+Cartela: [61, 86, 67, 66, 52, 72, 50, 77, 75, 51, 39, 65, 99, 88, 30, 3, 55, 20, 42, 64, 19, 57, 17, 73]
+Jogador Otávio Geraldo Carlos Eduardo da Cruz
+Cartela: [38, 3, 47, 16, 45, 33, 74, 14, 34, 82, 15, 36, 1, 23, 26, 77, 85, 49, 94, 31, 58, 21, 83, 22]
+Jogador Ryan Marcos Vinicius Almeida
+Cartela: [13, 97, 92, 49, 29, 25, 31, 27, 2, 46, 80, 45, 62, 75, 15, 5, 56, 91, 59, 54, 19, 99, 9, 52]
+Jogador Fátima Bianca Fernanda da Conceição
+Cartela: [72, 18, 32, 55, 10, 77, 98, 20, 34, 12, 14, 56, 23, 4, 65, 44, 69, 27, 97, 29, 1, 93, 70, 37]
+Jogador Giovanna Mirella Amanda Aragão
+Cartela: [44, 92, 70, 48, 41, 12, 62, 46, 29, 13, 59, 50, 21, 30, 61, 91, 35, 28, 88, 94, 17, 72, 22, 89]
+Jogador Larissa Regina Campos
+Cartela: [50, 54, 22, 30, 70, 35, 46, 20, 10, 98, 88, 60, 52, 71, 21, 77, 62, 80, 53, 25, 91, 3, 24, 67]
+Jogador Larissa Isabel Stella Drumond
+Cartela: [51, 50, 28, 95, 42, 68, 73, 92, 33, 84, 71, 15, 26, 94, 52, 57, 35, 1, 80, 98, 37, 87, 54, 53]
+Jogador Raquel Ana Marli Moreira
+Cartela: [32, 71, 37, 38, 57, 17, 74, 63, 96, 47, 61, 52, 10, 36, 78, 49, 20, 51, 90, 13, 2, 31, 24, 8]
+Bola sorteada foi: 29
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Bola sorteada foi: 92
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 74
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 49
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 42
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 51
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 71
+Jogador: Larissa Regina Campos marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 8
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 56
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Bola sorteada foi: 63
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 33
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 10
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Jogador: Larissa Regina Campos marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 35
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Larissa Regina Campos marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 50
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Larissa Regina Campos marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 54
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Larissa Regina Campos marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 90
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 40
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Bola sorteada foi: 70
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Larissa Regina Campos marcou!
+Bola sorteada foi: 64
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Bola sorteada foi: 99
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Bola sorteada foi: 1
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 83
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Bola sorteada foi: 78
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 47
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 67
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Larissa Regina Campos marcou!
+Bola sorteada foi: 80
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Larissa Regina Campos marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 12
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Bola sorteada foi: 20
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Jogador: Larissa Regina Campos marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 27
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Bola sorteada foi: 31
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 72
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Bola sorteada foi: 19
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Bola sorteada foi: 65
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Bola sorteada foi: 13
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 26
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 97
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Bola sorteada foi: 23
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Bola sorteada foi: 57
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 7
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Brenda Sueli Campos marcou!
+Bola sorteada foi: 75
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Bola sorteada foi: 95
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 62
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Larissa Regina Campos marcou!
+Bola sorteada foi: 21
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Larissa Regina Campos marcou!
+Bola sorteada foi: 34
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Bola sorteada foi: 91
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Larissa Regina Campos marcou!
+Bola sorteada foi: 60
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Larissa Regina Campos marcou!
+Bola sorteada foi: 68
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 16
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Bola sorteada foi: 88
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Larissa Regina Campos marcou!
+Bola sorteada foi: 3
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Larissa Regina Campos marcou!
+Bola sorteada foi: 82
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Bola sorteada foi: 93
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Bola sorteada foi: 38
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 48
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Bola sorteada foi: 28
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 96
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 81
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Bola sorteada foi: 44
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Bola sorteada foi: 87
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 53
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Larissa Regina Campos marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 25
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Larissa Regina Campos marcou!
+Bola sorteada foi: 89
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Bola sorteada foi: 45
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Bola sorteada foi: 77
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Jogador: Larissa Regina Campos marcou!
+Bola sorteada foi: 6
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Brenda Sueli Campos marcou!
+Bola sorteada foi: 36
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 37
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 22
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Larissa Regina Campos marcou!
+Bola sorteada foi: 98
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Jogador: Larissa Regina Campos marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 32
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 30
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Larissa Regina Campos marcou!
+Bola sorteada foi: 66
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Bola sorteada foi: 46
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Larissa Regina Campos marcou!
+Bola sorteada foi: 86
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Bola sorteada foi: 59
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Bola sorteada foi: 85
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Bola sorteada foi: 58
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Bola sorteada foi: 76
+Jogador: Carolina Mariane Porto marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Bola sorteada foi: 14
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Fátima Bianca Fernanda da Conceição marcou!
+Bola sorteada foi: 41
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Bola sorteada foi: 39
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Brenda Sueli Campos marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Bola sorteada foi: 2
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Gael Jorge Pietro Porto marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 5
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Bola sorteada foi: 94
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Giovana Alícia dos Santos marcou!
+Jogador: Otávio Geraldo Carlos Eduardo da Cruz marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 73
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Bola sorteada foi: 61
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Giovanna Mirella Amanda Aragão marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 79
+Bola sorteada foi: 24
+Jogador: Evelyn Cecília Silva marcou!
+Jogador: Larissa Regina Campos marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Bola sorteada foi: 52
+Jogador: Elisa Sabrina Larissa Nunes marcou!
+Jogador: Natália Daiane Elza das Neves marcou!
+Jogador: Brenda Daiane Camila Gonçalves marcou!
+Jogador: Ryan Marcos Vinicius Almeida marcou!
+Jogador: Larissa Regina Campos Bingo!!
+Jogador: Larissa Isabel Stella Drumond marcou!
+Jogador: Raquel Ana Marli Moreira marcou!
+Foram sorteados 89 números:
+29, 92, 74, 49, 42, 51, 71, 8, 56, 63, 33, 10, 35, 50, 54, 90, 40, 70, 64, 99, 1, 83, 78, 47, 67, 80, 12, 20, 27, 31, 72, 19, 65, 13, 26, 97, 23, 57, 7, 75, 95, 62, 21, 34, 91, 60, 68, 16, 88, 3, 82, 93, 38, 48, 28, 96, 81, 44, 87, 53, 25, 89, 45, 77, 6, 36, 37, 22, 98, 32, 30, 66, 46, 86, 59, 85, 58, 76, 14, 41, 39, 2, 5, 94, 73, 61, 79, 24, 52
+Vencedores
+Larissa Regina Campos

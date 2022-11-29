@@ -1,0 +1,8 @@
+Rua Santa Terezinha
+29-114-002
+A
+253.42 269.60
+ocupada
+A
+158.78 178.40
+desocupada

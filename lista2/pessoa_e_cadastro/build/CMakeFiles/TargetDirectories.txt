@@ -1,0 +1,4 @@
+/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/build/CMakeFiles/rebuild_cache.dir
+/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/build/CMakeFiles/edit_cache.dir
+/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/build/CMakeFiles/verify.dir
+/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/build/CMakeFiles/program.dir

@@ -1,0 +1,6 @@
+Casas Desocupadas
+Misael Mendonça, 85-803-230, Casa no. 1, Área: 195.84 / 230.40, lado B
+Vizinhos
+Frente: Misael Mendonça, 85-803-230, Casa no. 0, Área: 164.74 / 228.80, lado A (ocupada)
+Esquerda: <nenhum>
+Direita: Misael Mendonça, 85-803-230, Casa no. 3, Área: 230.40 / 256.00, lado B (ocupada)

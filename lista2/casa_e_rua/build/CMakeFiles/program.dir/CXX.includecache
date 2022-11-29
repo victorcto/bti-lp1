@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Casa.hpp
+iostream
+-
+
+../include/Rua.hpp
+iostream
+-
+vector
+-
+Casa.hpp
+../include/Casa.hpp
+tuple
+-
+
+/home/victor/lip/t01-lista-2-victorcto/casa_e_rua/src/Rua.cpp
+Rua.hpp
+/home/victor/lip/t01-lista-2-victorcto/casa_e_rua/src/Rua.hpp
+
+/home/victor/lip/t01-lista-2-victorcto/casa_e_rua/src/main.cpp
+iostream
+-
+string
+-
+Casa.hpp
+/home/victor/lip/t01-lista-2-victorcto/casa_e_rua/src/Casa.hpp
+Rua.hpp
+/home/victor/lip/t01-lista-2-victorcto/casa_e_rua/src/Rua.hpp
+

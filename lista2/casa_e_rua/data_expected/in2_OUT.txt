@@ -1,0 +1,11 @@
+Casas Desocupadas
+José Vidal 91, 58-748-970, Casa no. 4, Área: 219.46 / 304.80, lado A
+Vizinhos
+Frente: José Vidal 91, 58-748-970, Casa no. 5, Área: 192.10 / 208.80, lado B (ocupada)
+Esquerda: José Vidal 91, 58-748-970, Casa no. 2, Área: 167.96 / 176.80, lado A (ocupada)
+Direita: José Vidal 91, 58-748-970, Casa no. 6, Área: 146.61 / 190.40, lado A (ocupada)
+José Vidal 91, 58-748-970, Casa no. 3, Área: 260.06 / 309.60, lado B
+Vizinhos
+Frente: José Vidal 91, 58-748-970, Casa no. 2, Área: 167.96 / 176.80, lado A (ocupada)
+Esquerda: José Vidal 91, 58-748-970, Casa no. 1, Área: 135.49 / 185.60, lado B (ocupada)
+Direita: José Vidal 91, 58-748-970, Casa no. 5, Área: 192.10 / 208.80, lado B (ocupada)

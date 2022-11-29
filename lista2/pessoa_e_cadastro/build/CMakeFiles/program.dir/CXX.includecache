@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Cadastro.hpp
+vector
+-
+iostream
+-
+Pessoa.hpp
+../include/Pessoa.hpp
+
+../include/Pessoa.hpp
+iostream
+-
+
+/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/src/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+Pessoa.hpp
+/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/src/Pessoa.hpp
+Cadastro.hpp
+/home/victor/lip/t01-lista-2-victorcto/pessoa_e_cadastro/src/Cadastro.hpp
+

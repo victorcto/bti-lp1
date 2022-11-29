@@ -1,0 +1,6 @@
+Fácil; Julio; CARRO, CART, CORACAO; 10
+Fácil; Victor; SOBRE, MILITARES; 14
+Fácil; Victor Couto; FEDERAL, SOBRE; 12
+Médio; Deborah; ESTRUTURA; 9
+Difícil; Ernest; SEGUNDO; 7
+Fácil; João S.; DEPUTADO; 8

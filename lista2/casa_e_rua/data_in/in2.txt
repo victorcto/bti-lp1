@@ -1,0 +1,32 @@
+José Vidal 91
+58-748-970
+A
+214.72 244.00
+ocupada
+A
+167.96 176.80
+ocupada
+A
+219.46 304.80
+desocupada
+B
+135.49 185.60
+ocupada
+B
+260.06 309.60
+desocupada
+A
+146.61 190.40
+ocupada
+A
+187.70 237.60
+ocupada
+A
+207.78 241.60
+ocupada
+A
+209.50 240.80
+ocupada
+B
+192.10 208.80
+ocupada
